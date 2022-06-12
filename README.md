@@ -8,5 +8,5 @@ docker image build -t env-api .
 
 ## Run image
 ```
- docker run -p 80:80 env-api
+docker run -p 80:80 env-api
 ```
